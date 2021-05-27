@@ -9,9 +9,6 @@ data_ar.csv presents all the arabic tweets that were extracted for labeling
 
 data_en.csv presents the sample of 5000 english tweets that were extracted for labeling
 
-dara_ar_l.csv presents the arabic tweets after labeling.
-
-dara_en_l.csv presents the english tweets after labeling.
 
 
 Analyzing COVID-19 Vaccines.pynb represents the main code that includes streaming, storing, cleaning, sampling, connection to MySQL & Cassandra,
