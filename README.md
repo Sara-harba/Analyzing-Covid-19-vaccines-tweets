@@ -3,12 +3,6 @@ This project is done as a part of a university project that aimed to extract twe
 
 I used tweepy library to extract tweets, used MySQL and Cassandra to store the cleaned data, then used python and traditional learning alogrithmes to visualize and analyze data
 
-data.csv file represents the columns and tweets that were picked from the data.txt file 
-
-data_ar.csv presents all the arabic tweets that were extracted for labeling
-
-data_en.csv presents the sample of 5000 english tweets that were extracted for labeling
-
 
 
 Analyzing COVID-19 Vaccines.pynb represents the main code that includes streaming, storing, cleaning, sampling, connection to MySQL & Cassandra,
