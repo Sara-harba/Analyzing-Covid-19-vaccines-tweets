@@ -1,5 +1,5 @@
 # Analyzing-Covid-19-vaccines-tweets
-This project is done as a part of a university project that aimed to extract tweets from twitter, cleaning them, store them and analyzing them
+This project aimed to extract tweets from twitter, cleaning them, store them and analyzing them
 
 I used tweepy library to extract tweets, used MySQL and Cassandra to store the cleaned data, then used python and traditional learning alogrithmes to visualize and analyze data
 
